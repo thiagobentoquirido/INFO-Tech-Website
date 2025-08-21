@@ -1,4 +1,4 @@
-// File: C:\Users\Aluno\Downloads\NodeProject2.0\NodeProject2.0\NodeProject2.0\insighttech\src\app\products\page.tsx
+// File: D:\projects all\insighttech\src\app\products\page.tsx
 import * as entry from '../../../../src/app/products/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
