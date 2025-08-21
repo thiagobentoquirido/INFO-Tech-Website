@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.hometext{
+    font-family: inherit;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+    margin-top: -10px;
+    font-size: 50px;
+    justify-content: center;
+    font-weight: bold;
+
+}
+.hometext1{font-family: inherit;
+    align-items: center;
+    display: flex;
+    color:blueviolet;
+    margin: 0 auto;
+    margin-top: -33px;
+    font-size: 37px;
+    justify-content: center;
+    font-weight: bold;
+}
+
