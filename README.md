@@ -132,8 +132,8 @@ React
  — interface poderosa e reativa
 
 Projeto inspirado por INFO-Tech-Website
-
-Feito com ❤️ para fins educacionais
-
 ```
+<p align="center">Feito com ❤️ para fins educacionais</p>
+
+
 
