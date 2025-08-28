@@ -133,7 +133,7 @@ React
 
 Projeto inspirado por INFO-Tech-Website
 
-<p align="center">Feito com ❤️ para fins educacionais</p> 
+Feito com ❤️ para fins educacionais
 
 ```
 
