@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">🛒 Insight Tech</h1>
+<p align="center">
+  Loja virtual de informática desenvolvida com <strong>React</strong>, <strong>Supabase</strong> e hospedada na <strong>Vercel</strong>.
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+</p>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📦 Sobre o Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A **Insight Tech** é uma loja de informática online, onde os usuários podem visualizar produtos tecnológicos, adicionar ao carrinho e gerenciar seus pedidos. O projeto foi desenvolvido com foco educacional, usando ferramentas modernas de desenvolvimento web.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 👨‍💻 Desenvolvedores
 
-## Learn More
+- Thiago Araújo  
+- Cauã Galvão  
+- Charles Eduardo  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Tecnologias Utilizadas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **React** — Framework moderno para criação de interfaces interativas
+- **Supabase** — Backend as a Service (banco de dados PostgreSQL + autenticação + storage)
+- **Vercel** — Deploy automático e hospedagem para projetos frontend
+- **JavaScript / Vite** — Ferramenta de build leve e rápida
+- **CSS / Tailwind (opcional)** — Estilização moderna e responsiva
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📁 Estrutura do Projeto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
