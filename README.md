@@ -31,9 +31,107 @@ A **Insight Tech** é uma loja de informática online, onde os usuários podem v
 - **Supabase** — Backend as a Service (banco de dados PostgreSQL + autenticação + storage)
 - **Vercel** — Deploy automático e hospedagem para projetos frontend
 - **JavaScript / Vite** — Ferramenta de build leve e rápida
-- **CSS / Tailwind (opcional)** — Estilização moderna e responsiva
+
 
 ---
 
 ## 📁 Estrutura do Projeto
+
+Insight-Tech/
+├── public/
+│ └── favicon.ico
+├── src/
+│ ├── assets/
+│ ├── components/
+│ │ ├── Header.jsx
+│ │ ├── Footer.jsx
+│ │ └── ProductCard.jsx
+│ ├── pages/
+│ │ ├── Home.jsx
+│ │ ├── Product.jsx
+│ │ ├── Cart.jsx
+│ │ └── Login.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── styles/
+│ └── global.css
+├── .env
+├── package.json
+├── README.md
+└── vercel.json
+
+
+---
+
+## 🛠️ Como Rodar o Projeto
+
+### ✅ Pré-requisitos
+
+- Node.js instalado
+- Conta no Supabase (gratuita)
+- Conta no Vercel (para deploy)
+
+### 🔧 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/Insight-Tech.git
+
+# Acesse a pasta
+cd Insight-Tech
+
+# Instale as dependências
+npm install
+
+🔐 Configuração do Supabase
+
+Crie um arquivo .env na raiz com as variáveis:
+
+VITE_SUPABASE_URL=https://<sua-url>.supabase.co
+VITE_SUPABASE_ANON_KEY=<sua-anon-key>
+
+
+Você encontrará essas informações no painel do Supabase, na aba "Project Settings" > "API".
+
+▶️ Iniciando o projeto
+npm run dev
+
+🧪 Funcionalidades
+
+ Página inicial com listagem de produtos
+
+ Página de detalhes do produto
+
+ Carrinho de compras funcional
+
+ Login/Logout com Supabase Auth
+
+ Área de administração para cadastrar produtos (em desenvolvimento)
+
+🌐 Deploy
+
+O projeto está hospedado na Vercel e realiza deploy automático a partir da branch main.
+
+🔗 Acesse em: https://insight-tech.vercel.app
+ (link fictício — atualize conforme seu projeto real)
+
+📄 Licença
+
+Este projeto é de uso educacional e foi desenvolvido como trabalho acadêmico.
+Todos os direitos reservados aos autores: Thiago Araújo, Cauã Galvão e Charles Eduardo.
+
+💡 Agradecimentos
+
+Supabase
+ — backend moderno e gratuito
+
+Vercel
+ — deploy simples com GitHub
+
+React
+ — interface poderosa e reativa
+
+Projeto inspirado por INFO-Tech-Website
+
+<p align="center">Feito com ❤️ para fins educacionais</p> ```
 
